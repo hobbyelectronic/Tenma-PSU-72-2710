@@ -34,7 +34,7 @@ Step=100 #Step size in mA
 PSUstart=30
 PSUstop=32
 
-It will output data as a csv in the format below that can be loaded into a spreadsheet
+It will output data as a csv in the format below and as a table on the screen.
 
   VIN    IIN    VOUT    IOUT    EFF
 -----  -----  ------  ------  -----
